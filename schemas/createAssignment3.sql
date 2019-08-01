@@ -165,3 +165,6 @@ insert into Adopt values (7, 3);
 insert into Adopt values (8, 1);
 insert into Adopt values (8, 2);
 insert into Adopt values (8, 4);
+
+ALTER TABLE Participator
+ADD Annotation VARCHAR(1000);
