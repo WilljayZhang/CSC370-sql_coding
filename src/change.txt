@@ -1,0 +1,2 @@
+1. Add auto increment for the id of table Paticipator, Campaign, Donners and Advertise.
+2. Add a new column "Annotation" for the table Paticipator.
