@@ -13,13 +13,11 @@ ASSIGNMENT #3 EVALUATION
 -----
 (1) Database modelling (E-R diagrams, SQL relations)
 
-* The management of campaign events/activities was not considered in
+* The management of campaign's events/activities was not considered in
   this diagram.
 
 * The start and end dates of the campaign was not modelled properly in
   this diagram.
-
-* Tier is missing
 
 * Multiple donations by same person is not stored properly
 
@@ -43,8 +41,8 @@ ASSIGNMENT #3 EVALUATION
 -----
 (4) Other comments
 
-* Was not able to finish a query given to student. (Maybe it was a
-  bit hard for student?)
+* Was not able to finish a query given to student. (may be it was a
+  bit hard for student)
 
 -----
-GRADE: [Grade withheld, please visit instructor.]
+GRADE:B-
